@@ -3,7 +3,7 @@ Hi, I’m @KAWALMEET SINGH<br>I’m interested in Fullstack Development<br>I’m
 
 
 ## 🌐 Socials:
-[![Twitter/X](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kawalmeetsde)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/kawalmeetsde)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kawal_meetsingh) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kawalmeetsingh)
 
 # 💻 Tech Stack:
