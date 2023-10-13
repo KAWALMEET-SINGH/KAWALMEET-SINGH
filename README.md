@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m @KAWALMEET SINGH<br>I’m a Fullstack Development<br>I’m currently working with MERN Stack<br>I’m currently learning  React Native<br>I'm Currently a student at Maharaja Agarsen Institute of Technology
+Hi, I’m @KAWALMEET SINGH<br>I’m a Fullstack Developer<br>I’m currently working with MERN Stack<br>I’m currently learning  React Native<br>I'm Currently a student at Maharaja Agarsen Institute of Technology
 
 
 ## 🌐 Socials:
